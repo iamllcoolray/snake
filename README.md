@@ -14,4 +14,8 @@ To eat as many apples as possible and to grow the snake.
 
 #### Keys
 
-Up, Down, Left, Right or W, A, S, D
+Up, Down, Left, Right
+
+or
+
+W, A, S, D
