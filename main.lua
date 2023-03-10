@@ -50,6 +50,8 @@ function love.update(dt)
             player.tail_length = 0
             player.x = love.graphics.getWidth() / 2
             player.y = love.graphics.getHeight() / 2
+            food.x = love.graphics.getWidth() / 2
+            food.y = love.graphics.getHeight() - 100
             player.isDead = true
         end
     end
